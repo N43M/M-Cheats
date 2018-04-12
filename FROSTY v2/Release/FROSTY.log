@@ -1,0 +1,264 @@
+﻿D:\VS17\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  imguicolorpicker.cpp
+  Parser.cpp
+  recvproxy.cpp
+  Autowall.cpp
+  Chams.cpp
+  Configuration.cpp
+  DLLMain.cpp
+  EnginePrediction.cpp
+  ESP.cpp
+  Global.cpp
+  GrenadePrediction.cpp
+  Hooks.cpp
+d:\vs17\vc\tools\msvc\14.13.26128\include\algorithm(1328): warning C4244: '=': conversion from 'wint_t' to 'char', possible loss of data
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\idirect3ddevice9.h(142): note: see reference to function template instantiation '_OutIt std::transform<std::_String_iterator<std::_String_val<std::_Simple_types<_Ty>>>,std::_String_iterator<std::_String_val<std::_Simple_types<_Ty>>>,wint_t(__cdecl *)(wint_t)>(const _InIt,const _InIt,_OutIt,_Fn)' being compiled
+          with
+          [
+              _OutIt=std::_String_iterator<std::_String_val<std::_Simple_types<char>>>,
+              _Ty=char,
+              _InIt=std::_String_iterator<std::_String_val<std::_Simple_types<char>>>,
+              _Fn=wint_t (__cdecl *)(wint_t)
+          ]
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1659): note: see reference to class template instantiation 'XorCompileTime::XorString<14,221>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1655): note: see reference to class template instantiation 'XorCompileTime::XorString<17,220>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1653): note: see reference to class template instantiation 'XorCompileTime::XorString<6,219>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1650): note: see reference to class template instantiation 'XorCompileTime::XorString<19,218>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1648): note: see reference to class template instantiation 'XorCompileTime::XorString<6,217>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1646): note: see reference to class template instantiation 'XorCompileTime::XorString<20,216>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1644): note: see reference to class template instantiation 'XorCompileTime::XorString<8,215>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1642): note: see reference to class template instantiation 'XorCompileTime::XorString<20,214>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1640): note: see reference to class template instantiation 'XorCompileTime::XorString<6,213>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1638): note: see reference to class template instantiation 'XorCompileTime::XorString<15,212>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1636): note: see reference to class template instantiation 'XorCompileTime::XorString<6,211>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1634): note: see reference to class template instantiation 'XorCompileTime::XorString<15,210>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1632): note: see reference to class template instantiation 'XorCompileTime::XorString<6,209>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1630): note: see reference to class template instantiation 'XorCompileTime::XorString<17,208>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1628): note: see reference to class template instantiation 'XorCompileTime::XorString<6,207>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1626): note: see reference to class template instantiation 'XorCompileTime::XorString<18,206>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1619): note: see reference to class template instantiation 'XorCompileTime::XorString<15,205>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1615): note: see reference to class template instantiation 'XorCompileTime::XorString<13,204>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1611): note: see reference to class template instantiation 'XorCompileTime::XorString<16,203>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1607): note: see reference to class template instantiation 'XorCompileTime::XorString<21,202>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1603): note: see reference to class template instantiation 'XorCompileTime::XorString<13,201>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1596): note: see reference to class template instantiation 'XorCompileTime::XorString<11,200>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1592): note: see reference to class template instantiation 'XorCompileTime::XorString<17,199>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1588): note: see reference to class template instantiation 'XorCompileTime::XorString<22,198>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1584): note: see reference to class template instantiation 'XorCompileTime::XorString<19,197>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1580): note: see reference to class template instantiation 'XorCompileTime::XorString<20,196>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1576): note: see reference to class template instantiation 'XorCompileTime::XorString<12,195>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1568): note: see reference to class template instantiation 'XorCompileTime::XorString<24,194>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1566): note: see reference to class template instantiation 'XorCompileTime::XorString<7,193>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1564): note: see reference to class template instantiation 'XorCompileTime::XorString<21,192>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1562): note: see reference to class template instantiation 'XorCompileTime::XorString<7,191>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1560): note: see reference to class template instantiation 'XorCompileTime::XorString<22,190>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1558): note: see reference to class template instantiation 'XorCompileTime::XorString<7,189>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1556): note: see reference to class template instantiation 'XorCompileTime::XorString<22,188>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1554): note: see reference to class template instantiation 'XorCompileTime::XorString<7,187>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1552): note: see reference to class template instantiation 'XorCompileTime::XorString<14,186>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1550): note: see reference to class template instantiation 'XorCompileTime::XorString<7,185>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1548): note: see reference to class template instantiation 'XorCompileTime::XorString<14,184>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1544): note: see reference to class template instantiation 'XorCompileTime::XorString<16,183>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1540): note: see reference to class template instantiation 'XorCompileTime::XorString<15,182>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1536): note: see reference to class template instantiation 'XorCompileTime::XorString<15,181>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1532): note: see reference to class template instantiation 'XorCompileTime::XorString<10,180>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1469): note: see reference to class template instantiation 'XorCompileTime::XorString<11,179>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1462): note: see reference to class template instantiation 'XorCompileTime::XorString<3,178>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1423): note: see reference to class template instantiation 'XorCompileTime::XorString<5,177>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1419): note: see reference to class template instantiation 'XorCompileTime::XorString<10,176>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1415): note: see reference to class template instantiation 'XorCompileTime::XorString<10,175>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1411): note: see reference to class template instantiation 'XorCompileTime::XorString<10,174>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1407): note: see reference to class template instantiation 'XorCompileTime::XorString<6,173>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1403): note: see reference to class template instantiation 'XorCompileTime::XorString<5,172>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1399): note: see reference to class template instantiation 'XorCompileTime::XorString<10,171>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1388): note: see reference to class template instantiation 'XorCompileTime::XorString<14,170>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1384): note: see reference to class template instantiation 'XorCompileTime::XorString<15,169>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1380): note: see reference to class template instantiation 'XorCompileTime::XorString<5,168>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1376): note: see reference to class template instantiation 'XorCompileTime::XorString<8,167>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1372): note: see reference to class template instantiation 'XorCompileTime::XorString<8,166>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1368): note: see reference to class template instantiation 'XorCompileTime::XorString<10,165>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1364): note: see reference to class template instantiation 'XorCompileTime::XorString<8,164>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1360): note: see reference to class template instantiation 'XorCompileTime::XorString<9,163>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1356): note: see reference to class template instantiation 'XorCompileTime::XorString<10,162>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1352): note: see reference to class template instantiation 'XorCompileTime::XorString<7,161>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1348): note: see reference to class template instantiation 'XorCompileTime::XorString<7,160>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1313): note: see reference to class template instantiation 'XorCompileTime::XorString<7,159>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1311): note: see reference to class template instantiation 'XorCompileTime::XorString<11,158>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1310): note: see reference to class template instantiation 'XorCompileTime::XorString<13,157>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1280): note: see reference to class template instantiation 'XorCompileTime::XorString<6,156>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1278): note: see reference to class template instantiation 'XorCompileTime::XorString<15,155>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1274): note: see reference to class template instantiation 'XorCompileTime::XorString<16,154>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1272): note: see reference to class template instantiation 'XorCompileTime::XorString<13,153>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1270): note: see reference to class template instantiation 'XorCompileTime::XorString<11,152>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1266): note: see reference to class template instantiation 'XorCompileTime::XorString<4,151>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1210): note: see reference to class template instantiation 'XorCompileTime::XorString<11,150>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1193): note: see reference to class template instantiation 'XorCompileTime::XorString<19,149>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1190): note: see reference to class template instantiation 'XorCompileTime::XorString<25,148>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1175): note: see reference to class template instantiation 'XorCompileTime::XorString<11,147>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1174): note: see reference to class template instantiation 'XorCompileTime::XorString<9,146>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1172): note: see reference to class template instantiation 'XorCompileTime::XorString<9,145>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1168): note: see reference to class template instantiation 'XorCompileTime::XorString<8,144>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1167): note: see reference to class template instantiation 'XorCompileTime::XorString<11,143>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1165): note: see reference to class template instantiation 'XorCompileTime::XorString<12,142>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1161): note: see reference to class template instantiation 'XorCompileTime::XorString<10,141>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1160): note: see reference to class template instantiation 'XorCompileTime::XorString<15,140>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1156): note: see reference to class template instantiation 'XorCompileTime::XorString<9,139>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1154): note: see reference to class template instantiation 'XorCompileTime::XorString<10,138>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1153): note: see reference to class template instantiation 'XorCompileTime::XorString<9,137>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1108): note: see reference to class template instantiation 'XorCompileTime::XorString<10,136>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1025): note: see reference to class template instantiation 'XorCompileTime::XorString<7,135>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1023): note: see reference to class template instantiation 'XorCompileTime::XorString<5,134>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1021): note: see reference to class template instantiation 'XorCompileTime::XorString<5,133>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1017): note: see reference to class template instantiation 'XorCompileTime::XorString<3,132>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1016): note: see reference to class template instantiation 'XorCompileTime::XorString<14,131>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1015): note: see reference to class template instantiation 'XorCompileTime::XorString<11,130>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1014): note: see reference to class template instantiation 'XorCompileTime::XorString<10,129>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1013): note: see reference to class template instantiation 'XorCompileTime::XorString<9,128>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1012): note: see reference to class template instantiation 'XorCompileTime::XorString<12,127>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1009): note: see reference to class template instantiation 'XorCompileTime::XorString<9,126>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1008): note: see reference to class template instantiation 'XorCompileTime::XorString<12,125>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(1007): note: see reference to class template instantiation 'XorCompileTime::XorString<8,124>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(993): note: see reference to class template instantiation 'XorCompileTime::XorString<6,123>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(991): note: see reference to class template instantiation 'XorCompileTime::XorString<6,122>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(988): note: see reference to class template instantiation 'XorCompileTime::XorString<6,121>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(985): note: see reference to class template instantiation 'XorCompileTime::XorString<6,120>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(981): note: see reference to class template instantiation 'XorCompileTime::XorString<6,119>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(977): note: see reference to class template instantiation 'XorCompileTime::XorString<6,118>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(965): note: see reference to class template instantiation 'XorCompileTime::XorString<14,117>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(961): note: see reference to class template instantiation 'XorCompileTime::XorString<10,116>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(960): note: see reference to class template instantiation 'XorCompileTime::XorString<15,115>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(959): note: see reference to class template instantiation 'XorCompileTime::XorString<11,114>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(957): note: see reference to class template instantiation 'XorCompileTime::XorString<8,113>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(956): note: see reference to class template instantiation 'XorCompileTime::XorString<8,112>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(955): note: see reference to class template instantiation 'XorCompileTime::XorString<8,111>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(954): note: see reference to class template instantiation 'XorCompileTime::XorString<4,110>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(953): note: see reference to class template instantiation 'XorCompileTime::XorString<3,109>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(941): note: see reference to class template instantiation 'XorCompileTime::XorString<5,108>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(940): note: see reference to class template instantiation 'XorCompileTime::XorString<8,107>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(939): note: see reference to class template instantiation 'XorCompileTime::XorString<8,106>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(938): note: see reference to class template instantiation 'XorCompileTime::XorString<8,105>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(937): note: see reference to class template instantiation 'XorCompileTime::XorString<8,104>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(936): note: see reference to class template instantiation 'XorCompileTime::XorString<16,103>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(935): note: see reference to class template instantiation 'XorCompileTime::XorString<16,102>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(934): note: see reference to class template instantiation 'XorCompileTime::XorString<18,101>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(933): note: see reference to class template instantiation 'XorCompileTime::XorString<7,100>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(932): note: see reference to class template instantiation 'XorCompileTime::XorString<5,99>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(931): note: see reference to class template instantiation 'XorCompileTime::XorString<6,98>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(930): note: see reference to class template instantiation 'XorCompileTime::XorString<5,97>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(929): note: see reference to class template instantiation 'XorCompileTime::XorString<6,96>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(928): note: see reference to class template instantiation 'XorCompileTime::XorString<4,95>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(927): note: see reference to class template instantiation 'XorCompileTime::XorString<8,94>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(925): note: see reference to class template instantiation 'XorCompileTime::XorString<3,93>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(778): note: see reference to class template instantiation 'XorCompileTime::XorString<5,92>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(777): note: see reference to class template instantiation 'XorCompileTime::XorString<8,91>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(776): note: see reference to class template instantiation 'XorCompileTime::XorString<6,90>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(775): note: see reference to class template instantiation 'XorCompileTime::XorString<5,89>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(774): note: see reference to class template instantiation 'XorCompileTime::XorString<5,88>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(772): note: see reference to class template instantiation 'XorCompileTime::XorString<6,87>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(770): note: see reference to class template instantiation 'XorCompileTime::XorString<6,86>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(768): note: see reference to class template instantiation 'XorCompileTime::XorString<9,85>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(766): note: see reference to class template instantiation 'XorCompileTime::XorString<6,84>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(764): note: see reference to class template instantiation 'XorCompileTime::XorString<17,83>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(750): note: see reference to class template instantiation 'XorCompileTime::XorString<8,82>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(743): note: see reference to class template instantiation 'XorCompileTime::XorString<10,81>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(742): note: see reference to class template instantiation 'XorCompileTime::XorString<10,80>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(741): note: see reference to class template instantiation 'XorCompileTime::XorString<6,79>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(740): note: see reference to class template instantiation 'XorCompileTime::XorString<9,78>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(737): note: see reference to class template instantiation 'XorCompileTime::XorString<8,77>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(728): note: see reference to class template instantiation 'XorCompileTime::XorString<8,76>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(721): note: see reference to class template instantiation 'XorCompileTime::XorString<10,75>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(720): note: see reference to class template instantiation 'XorCompileTime::XorString<10,74>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(719): note: see reference to class template instantiation 'XorCompileTime::XorString<6,73>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(718): note: see reference to class template instantiation 'XorCompileTime::XorString<9,72>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(715): note: see reference to class template instantiation 'XorCompileTime::XorString<8,71>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(706): note: see reference to class template instantiation 'XorCompileTime::XorString<8,70>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(700): note: see reference to class template instantiation 'XorCompileTime::XorString<10,69>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(699): note: see reference to class template instantiation 'XorCompileTime::XorString<10,68>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(698): note: see reference to class template instantiation 'XorCompileTime::XorString<6,67>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(697): note: see reference to class template instantiation 'XorCompileTime::XorString<9,66>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(694): note: see reference to class template instantiation 'XorCompileTime::XorString<8,65>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(686): note: see reference to class template instantiation 'XorCompileTime::XorString<8,64>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(679): note: see reference to class template instantiation 'XorCompileTime::XorString<10,63>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(678): note: see reference to class template instantiation 'XorCompileTime::XorString<10,62>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(677): note: see reference to class template instantiation 'XorCompileTime::XorString<6,61>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(676): note: see reference to class template instantiation 'XorCompileTime::XorString<9,60>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(673): note: see reference to class template instantiation 'XorCompileTime::XorString<8,59>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(664): note: see reference to class template instantiation 'XorCompileTime::XorString<1,58>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(663): note: see reference to class template instantiation 'XorCompileTime::XorString<1,57>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(662): note: see reference to class template instantiation 'XorCompileTime::XorString<1,56>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(661): note: see reference to class template instantiation 'XorCompileTime::XorString<1,55>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(649): note: see reference to class template instantiation 'XorCompileTime::XorString<15,54>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(647): note: see reference to class template instantiation 'XorCompileTime::XorString<6,53>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(571): note: see reference to class template instantiation 'XorCompileTime::XorString<16,52>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(570): note: see reference to class template instantiation 'XorCompileTime::XorString<4,51>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(566): note: see reference to class template instantiation 'XorCompileTime::XorString<9,50>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(562): note: see reference to class template instantiation 'XorCompileTime::XorString<11,49>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(561): note: see reference to class template instantiation 'XorCompileTime::XorString<15,48>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(560): note: see reference to class template instantiation 'XorCompileTime::XorString<18,47>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(559): note: see reference to class template instantiation 'XorCompileTime::XorString<14,46>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(558): note: see reference to class template instantiation 'XorCompileTime::XorString<18,45>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(557): note: see reference to class template instantiation 'XorCompileTime::XorString<12,44>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(556): note: see reference to class template instantiation 'XorCompileTime::XorString<12,43>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(555): note: see reference to class template instantiation 'XorCompileTime::XorString<13,42>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(554): note: see reference to class template instantiation 'XorCompileTime::XorString<6,41>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(550): note: see reference to class template instantiation 'XorCompileTime::XorString<11,40>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(549): note: see reference to class template instantiation 'XorCompileTime::XorString<6,39>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(548): note: see reference to class template instantiation 'XorCompileTime::XorString<8,38>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(546): note: see reference to class template instantiation 'XorCompileTime::XorString<6,37>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(545): note: see reference to class template instantiation 'XorCompileTime::XorString<3,36>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(543): note: see reference to class template instantiation 'XorCompileTime::XorString<7,35>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(542): note: see reference to class template instantiation 'XorCompileTime::XorString<5,34>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(541): note: see reference to class template instantiation 'XorCompileTime::XorString<6,33>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(535): note: see reference to class template instantiation 'XorCompileTime::XorString<7,32>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(530): note: see reference to class template instantiation 'XorCompileTime::XorString<7,31>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(528): note: see reference to class template instantiation 'XorCompileTime::XorString<16,30>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(522): note: see reference to class template instantiation 'XorCompileTime::XorString<8,29>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(521): note: see reference to class template instantiation 'XorCompileTime::XorString<8,28>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(520): note: see reference to class template instantiation 'XorCompileTime::XorString<19,27>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(519): note: see reference to class template instantiation 'XorCompileTime::XorString<11,26>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(518): note: see reference to class template instantiation 'XorCompileTime::XorString<7,25>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(517): note: see reference to class template instantiation 'XorCompileTime::XorString<27,24>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(516): note: see reference to class template instantiation 'XorCompileTime::XorString<8,23>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(513): note: see reference to class template instantiation 'XorCompileTime::XorString<7,22>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(512): note: see reference to class template instantiation 'XorCompileTime::XorString<6,21>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(511): note: see reference to class template instantiation 'XorCompileTime::XorString<13,20>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(509): note: see reference to class template instantiation 'XorCompileTime::XorString<8,19>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(503): note: see reference to class template instantiation 'XorCompileTime::XorString<17,18>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(502): note: see reference to class template instantiation 'XorCompileTime::XorString<7,17>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(501): note: see reference to class template instantiation 'XorCompileTime::XorString<4,16>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(500): note: see reference to class template instantiation 'XorCompileTime::XorString<7,15>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(499): note: see reference to class template instantiation 'XorCompileTime::XorString<6,14>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(498): note: see reference to class template instantiation 'XorCompileTime::XorString<7,13>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(497): note: see reference to class template instantiation 'XorCompileTime::XorString<17,12>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(482): note: see reference to class template instantiation 'XorCompileTime::XorString<6,11>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(481): note: see reference to class template instantiation 'XorCompileTime::XorString<7,10>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(480): note: see reference to class template instantiation 'XorCompileTime::XorString<10,9>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(479): note: see reference to class template instantiation 'XorCompileTime::XorString<11,8>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(478): note: see reference to class template instantiation 'XorCompileTime::XorString<9,7>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(477): note: see reference to class template instantiation 'XorCompileTime::XorString<8,6>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(476): note: see reference to class template instantiation 'XorCompileTime::XorString<10,5>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(475): note: see reference to class template instantiation 'XorCompileTime::XorString<10,4>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(474): note: see reference to class template instantiation 'XorCompileTime::XorString<9,3>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(473): note: see reference to class template instantiation 'XorCompileTime::XorString<3,2>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(471): note: see reference to class template instantiation 'XorCompileTime::XorString<7,1>' being compiled
+  c:\users\naem\desktop\m-cheats\m-cheats\frosty v2\interface.h(470): note: see reference to class template instantiation 'XorCompileTime::XorString<6,0>' being compiled
+  imgui_impl_dx9.cpp
+  imgui.cpp
+  imgui_draw.cpp
+  Interfaces.cpp
+  LagComp.cpp
+  LegitBot.cpp
+  MathFunctions.cpp
+  memesets.cpp
+  Generating Code...
+  Compiling...
+  Misc.cpp
+  NetVarManager.cpp
+  RageBot.cpp
+  Renderer.cpp
+  Render.cpp
+  SpoofedConvar.cpp
+  MiscFunctions.cpp
+  Utilities.cpp
+  Generating Code...
+  FROSTY.vcxproj -> C:\Users\NAEM\Desktop\M-Cheats\M-Cheats\FROSTY v2\Release\paste.dll
