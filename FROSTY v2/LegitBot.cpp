@@ -183,7 +183,15 @@ void legitbot::triggerbot(CInput::CUserCmd *cmd, C_BaseEntity* local, CBaseComba
 			custom_delay++;
 		}
 	}
-
+	else
+	{
+		if (didHit)
+		{
+			custom_delay = 0;
+			shoot = true;
+			cmd->buttons |= IN_ATTACK;
+		}
+	}
 }
 
 void legitbot::do_aimbot(C_BaseEntity *local, CBaseCombatWeapon *weapon, CInput::CUserCmd *cmd)
